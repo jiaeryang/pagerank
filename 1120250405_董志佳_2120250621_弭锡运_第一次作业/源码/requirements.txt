@@ -1,0 +1,4 @@
+# Optional dependencies used for testing/comparison only
+networkx
+scipy
+numpy
